@@ -6,7 +6,7 @@ Members of the TOPAS-brachy Collaboration
 Founding members of TOPAS-brachy
 --------------------------------
 
-Yunzhi Ma, Ph.D. (PI)
+Yunzhi Ma, Ph.D. (Major Developer)
 
 Luc Beaulieu, Ph.D.
 
