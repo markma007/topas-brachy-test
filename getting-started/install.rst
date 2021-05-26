@@ -1,4 +1,4 @@
-How to Install TOPAS-brachy
+How to Install topas-brachy
 ===========================
 
 Installing TOPAS

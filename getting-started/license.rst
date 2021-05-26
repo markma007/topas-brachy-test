@@ -7,7 +7,7 @@ Topas-brachy is an open-source extension to TOPAS that is layered on top of Gean
 Topas-brachy Software License
 Version 0.1, 1 May 2021
  
-Copyright (c) Copyright Holders of the topas-brachy Collaboration, 2020-.
+Copyright (c) Copyright Holders of the topas-brachy Collaboration, 2021-.
 See :ref:`Collaboration` for details on the copyright holders. All rights not expressly granted under this license are reserved.
 
 This software includes voluntary contributions made to topas-brachy. 
