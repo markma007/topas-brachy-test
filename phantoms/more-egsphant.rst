@@ -1,7 +1,7 @@
-EgsPhant Phantom
-================
+Egsphant phantom specification
+------------------------------
 
-The *.egsphant file output by ctcreate or by DOSXYZnrc itself is an ASCII file containing
+The .egsphant file output by ctcreate or by DOSXYZnrc itself is an ASCII file containing
 the following information necessary for DOSXYZnrc to simulate the CT phantom and for
 the display program, dosxyz show[23], to display the density information:
 

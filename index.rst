@@ -38,7 +38,7 @@ Welcome to TOPAS-brachy's documentation!
     :caption: Phantoms
 
     phantoms/intro
-    phantoms/egsphant
+    phantoms/more-egsphant
 
 .. toctree::
     :maxdepth: 1
