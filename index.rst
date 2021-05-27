@@ -18,6 +18,7 @@ Welcome to TOPAS-brachy's documentation!
     getting-started/intro
     getting-started/install
     getting-started/authors
+    getting-started/citation
     getting-started/parameters
     getting-started/license
 

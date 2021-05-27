@@ -1,19 +1,26 @@
 High Dose Rate (HDR) Sources
 ============================
 
-A common end point of measurement for cells cultured *in vitro* in radiobiology is clonogenic cell survival. Single cell Monte Carlo simulations can provide insight into the total dose received by the cell or the distribution of dose within sub-regions of the cell (e.g., dose to the cell nucleus). This may be correlated with experimental measurements of the loss of a specific function or cell death. Single cell models can also form the geometric boundary for more complex studies, for example, calculating the energy deposited in other sub-cellular components (e.g., organelles, cell membranes) or investigating DNA damage in the nucleus. 
+A common end point of measurement for ...
 
-TOPAS-nBio provides users with a unique framework for simulating multiple cell types and the option of including organelle sub-components in the model. 
 
-Spherical Cell
----------------
-.. figure:: images/SphericalCell.png
-   :width: 300
+TG-186 Generic Source
+----------------------
+.. figure:: images/TG186GenericSource.png
+   :width: 450
    :align: center 
 
 
-The TsSphericalCell component is a model of a spherical cell with the option of including organelles. 
-To create the model specify the component name as well as the cell radius required::  
+The TG186GenericSource component is a generic HDR source model created by AAPM/AGB/... joint 
+working group on the commissioning of model-based dose calculation algorithms. 
+To create the model specify the component name as well as optional positional paramters as necessary::  
 
-  s:Ge/MyCell/Type="TsSphericalCell"
-  d:Ge/MyCell/CellRadius=20 um
+  s:Ge/Source/Type = "TG186GenericSource"
+  d:Ge/Source/TransX = 10 "mm"
+
+MicroSelectron HDR Source V2
+----------------------------
+
+.. figure:: images/MicroSelectronV2Ir192.png
+   :width: 450
+   :align: center 

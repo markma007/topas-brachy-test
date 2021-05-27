@@ -11,11 +11,6 @@ Yunzhi Ma, Ph.D. (Major Developer)
 Luc Beaulieu, Ph.D.
 
 +--------------------------------------+
-| .. image:: ../images/HMS_Logo.gif    |
-|    :scale: 13%                       |
-| .. image:: ../images/mgh-logo.png    | 
-|    :scale: 24%                       |
-+--------------------------------------+
 |                                      |
 |  Harald Paganetti, Ph.D.             |
 |                                      |
