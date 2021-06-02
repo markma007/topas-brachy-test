@@ -1,7 +1,28 @@
 COMS eye plaques
 ================
 
-A common end point of measurement for cells cultured *in vitro* in radiobiology is clonogenic cell survival. Single cell Monte Carlo simulations can provide insight into the total dose received by the cell or the distribution of dose within sub-regions of the cell (e.g., dose to the cell nucleus). This may be correlated with experimental measurements of the loss of a specific function or cell death. Single cell models can also form the geometric boundary for more complex studies, for example, calculating the energy deposited in other sub-cellular components (e.g., organelles, cell membranes) or investigating DNA damage in the nucleus. 
+The COMS eye-plaques described in AAPM TG-129_ have been implemented in topas-brachy.
 
-TOPAS-nBio provides users with a unique framework for simulating multiple cell types and the option of including organelle sub-components in the model. 
+.. figure:: images/tg129fig2.jpg
+   :width: 300
+   :align: center 
 
+The COMS EPs of different diameter are available for simulation::
+
+  EyePlaque10mm
+  EyePlaque12mm
+  EyePlaque14mm
+  EyePlaque16mm
+  EyePlaque18mm
+  EyePlaque20mm
+  EyePlaque22mm
+
+To use them::  
+
+  s:Ge/EP/Type = "EyePlauqe10mm"
+  d:Ge/EP/TransX = 2 cm
+  d:Ge/EP/RotZ = 90 deg
+
+
+
+.. _TG-129: https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.4749933
