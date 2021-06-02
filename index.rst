@@ -47,7 +47,16 @@ Welcome to TOPAS-brachy's documentation!
     applicators/intro
     applicators/applicators
     applicators/plaques
-    
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Typical Simulation Scenarios
+
+    scenarios/hdr
+    scenarios/implant
+    scenarios/coms
+    scenarios/pss
+
 Indices and tables
 ==================
 
